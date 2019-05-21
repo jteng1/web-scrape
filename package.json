@@ -1,0 +1,25 @@
+{
+  "name": "web-scrape",
+  "version": "1.0.0",
+  "description": "Web Scraping with Node.JS Cheerio and Request-Promise",
+  "main": "dogFoodScraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mongodb": "^3.2.5",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekasrofd/web-scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekasrofd/web-scrape/issues"
+  },
+  "homepage": "https://github.com/nekasrofd/web-scrape#readme"
+}
