@@ -6,7 +6,7 @@ const searchTerms = createList();
 
 // Connection URL
 const uri =
-  'mongodb+srv://justin123:justin123@cluster0-g3jby.mongodb.net/test?retryWrites=true&w=majority';
+  'mongodb+srv://username:password@cluster0-g3jby.mongodb.net/test?retryWrites=true&w=majority';
 
 // Create a client to connect to mongo service
 const MongoClient = require('mongodb').MongoClient;
